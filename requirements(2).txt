@@ -1,0 +1,12 @@
+pip~=21.2.4
+PyWavelets~=1.1.1
+Tensorflow~=2.6
+Scikit-learn~=0.24
+wfdb
+matplotlib
+mpld3
+h5py==2.8.0rc1
+Keras==2.6.0
+tqdm==4.42.1
+unittest2==1.1.0
+joblib==1.0.0
